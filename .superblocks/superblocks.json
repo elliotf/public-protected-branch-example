@@ -1,0 +1,12 @@
+{
+  "configType": "ROOT",
+  "metadata": {
+    "cliVersion": "2.0.6-next.88"
+  },
+  "resources": {
+    "be46a485-4be9-4ce0-8f52-649d73b412a9": {
+      "location": "apps/protected-branch-app",
+      "resourceType": "APPLICATION"
+    }
+  }
+}
